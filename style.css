@@ -1,0 +1,42 @@
+.box{
+	height: 50px;
+}
+.box1{
+	width: 50px;
+}
+.margin{
+	margin-left:2px ;
+}
+.box2{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.box3{
+	width: 600px;
+	margin-left: 589px;
+	  }
+.box4{
+	width: 600px;
+	margin-left: 595px;
+}
+.box5{
+	width: 700px;
+	margin-left: 640px;
+}	  
+.box6{
+	width: 600px;
+	margin-left: 587px;
+}
+.box7{
+	width: 600px;
+	margin-left: 592px;
+}
+.box8{
+	width: 600px;
+	margin-left: 429px;
+}
+.box9{
+	width: 600px;
+	margin-left: 275px;
+}
